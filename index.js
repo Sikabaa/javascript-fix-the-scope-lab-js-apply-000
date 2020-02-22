@@ -2,7 +2,7 @@ var animal = 'dog'
 
 function myAnimal() {return animal} 
 
-function yourAnimal() 
+function yourAnimal() {return animal}
 
 function add2(n) {
   return n + two
