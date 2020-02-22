@@ -1,8 +1,8 @@
 var animal = 'dog'
 
-function myAnimal(cat) {return animal} 
+function myAnimal() {return animal} 
 
-function yourAnimal() {return animal}
+function yourAnimal(cat) {return 'your' , animal}
 
 function add2(n) {
   return n + two
